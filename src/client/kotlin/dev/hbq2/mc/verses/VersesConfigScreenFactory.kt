@@ -52,7 +52,7 @@ object VersesConfigScreenFactory {
                 .setDefaultValue(defaultConfig.textColor)
                 .build()
 
-        val versionNames = arrayOf("NKJV", "NLT", "ESV", "KJV")
+        val versionNames = arrayOf("NKJV", "NLT", "ESV", "KJV","HWP")
 
         val version =
             entryBuilder
